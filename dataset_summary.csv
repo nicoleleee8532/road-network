@@ -1,0 +1,2 @@
+num_raw_points,num_unique_taxis,num_clean_points,num_trips,avg_trip_distance_km,avg_trip_duration_min,raw_rows,after_dropna,after_bounds,after_dedup,removed_too_fast_rows,final_rows
+17662984,10336,16082407,112538,94.77979610318559,475.48216380244895,17662984,17662984,17484530,16160617,78210,16082407

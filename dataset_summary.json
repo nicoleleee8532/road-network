@@ -1,0 +1,14 @@
+{
+  "num_raw_points": 17662984,
+  "num_unique_taxis": 10336,
+  "num_clean_points": 16082407,
+  "num_trips": 112538,
+  "avg_trip_distance_km": 94.77979610318559,
+  "avg_trip_duration_min": 475.48216380244895,
+  "raw_rows": 17662984,
+  "after_dropna": 17662984,
+  "after_bounds": 17484530,
+  "after_dedup": 16160617,
+  "removed_too_fast_rows": 78210,
+  "final_rows": 16082407
+}
